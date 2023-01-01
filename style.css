@@ -1,0 +1,137 @@
+
+@font-face{
+    font-family: myFont;
+    src: url(aharoniclm-boldoblique-webfont.woff);
+}
+@font-face {
+    font-family: Anka;
+    src: url(ankaclm-bold-webfont.ttf);
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #eee;
+}
+
+nav {
+    width: 100%;
+    height: 90px;
+    background-color: rgb(83, 79, 79);
+}
+
+ul {
+    margin-left: 60px;
+
+}
+.Logo {
+    height: 90px;
+    width: 60px;
+   display: inline-block;
+  
+   
+}
+
+
+
+ul li {
+    list-style: none;
+    display: inline-block;
+    float:right;
+    line-height: 100px;
+}
+
+ul li a {
+    display: block;
+    text-decoration: none;
+    font-size: 50px;
+    font-family: myFont;
+    color: #ffffff;
+    padding: 0px 10px;
+}
+
+ul li a:hover {
+    color: rgba(224, 127, 16, 0.685);
+}
+.P1 {
+    text-align: right;
+    text-decoration: none;
+    font-size: xx-large;
+    padding: 10px 20px;
+    font-family: myFont;
+    
+}
+
+.P2 {
+    text-align: right;
+    font-size: xx-large;
+    padding: 10px 20px;
+    color: rgb(189, 83, 21);
+    font-family: Anka;
+}
+.nav2 {
+    width: 100%;
+    height: 800px;
+}
+.IMG3 {
+    width: 100%;
+    height: 800px;
+}
+.nav3 {
+    width: 100%;
+    height: 10px;
+    background-color: rgb(83, 79, 79);
+}
+.nav4 {
+    width: 100%;
+    height: 800px;
+}
+.img4 {
+    width: 100%;
+    height: 800px;
+}
+.nav5 {
+    width: 100%;
+    height: 10px;
+}
+
+.imgA {
+    width: 100%;
+    height: 800px;
+}
+.navB {
+    width: 100%;
+    height: 800px;
+    background-color: rgb(255, 238, 0);
+
+}
+.imgB {
+    width: 100%;
+    height: 800px;
+}
+.navC {
+    width: 100%;
+    height: 40px;
+    background-color: rgb(255, 238, 0);
+}
+.navD {
+    width: 100%;
+    height: 500px;
+    background-color: rgb(0, 255, 13);
+}
+.P01 {
+    font-size: 45px;
+    font-family: MyFont;
+    text-align: right;
+    padding: 10px 20px;
+    color: rgb(189, 83, 21);
+}
+.p03 {
+    font-size: 30px;
+    font-family: MyFont;
+    text-align: right;
+    padding: 10px 20px;
+    color: rgb(189, 83, 21);
+}
